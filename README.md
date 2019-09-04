@@ -74,6 +74,7 @@ step by step.
             -Password sniffer
             -Website sniffer
             -Custom sniffer
+We are currently working on a web dashboard. This solution allows the user to use the bramble via his phone or PC. It will display basic information such as: IP address, RAM and disk usage. In addition, this local website provides access to a terminal and a file viewer. You can follow the progress of the project here : https://github.com/marcrow/bramble-dashboard
 
 ## :globe_with_meridians: Requirements
  As of today, this software works only on the bramble enivronment.
